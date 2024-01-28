@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "bl": "^6.0.10",
+    "body-parser": "^1.20.2",
     "express": "^4.18.2",
     "learnyounode": "^3.2.0",
     "pug": "^3.0.2",
