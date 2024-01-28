@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "bl": "^6.0.10",
+    "express": "^4.18.2",
+    "learnyounode": "^3.2.0",
     "strftime": "^0.10.2",
     "through2-map": "^3.0.0"
   }
